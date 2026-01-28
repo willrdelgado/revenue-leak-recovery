@@ -139,7 +139,7 @@ const Index = () => {
       <section className="px-4 pt-12 pb-8 sm:pt-16 sm:pb-12 md:pt-20 md:pb-16">
         <div className="container max-w-3xl mx-auto text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-foreground leading-tight mb-4 sm:mb-6 text-balance">
-            How much money did you lose this week because calls went unanswered
+            How Much Money Did You Lose Last Month Because Calls Went Unanswered?
           </h1>
           <p className="text-lg sm:text-xl text-muted-foreground mb-6 max-w-2xl mx-auto">
             Run the 60 second Revenue Leakage Diagnostic to see the monthly dollar leak hiding in your missed calls.
